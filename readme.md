@@ -1,6 +1,6 @@
 
-AIDD 30 days challenge (task 1)
-
+**AIDD 30 days challenge (task 1)
+**
 # AI-Driven Development:
 
 For me, AI-driven development means that AI is now a big part of how we
